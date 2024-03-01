@@ -4,6 +4,9 @@ The Alter Ego project is a Python-based AI robot designed to run on Raspberry Pi
 
 
 
+# Project Structure
+
+```plaintext
 alterego/
 │
 ├── main.py
