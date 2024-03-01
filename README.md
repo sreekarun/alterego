@@ -1,5 +1,7 @@
 # AlterEgo
 
+[![Pylint](https://github.com/sreekarun/alterego/actions/workflows/pylint.yml/badge.svg)](https://github.com/sreekarun/alterego/actions/workflows/pylint.yml)
+
 The Alter Ego project is a Python-based AI robot designed to run on Raspberry Pi and Arduino. It is structured to handle a variety of tasks, making it a versatile and comprehensive solution for robotics enthusiasts and developers.
 
 
