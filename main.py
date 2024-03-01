@@ -1,6 +1,4 @@
 from openai import OpenAI
-from pydub import AudioSegment
-from pydub.playback import play
 from playsound import playsound
 
 client = OpenAI()
