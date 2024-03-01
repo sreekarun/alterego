@@ -16,8 +16,7 @@ jobs:
         python-version: ${{ matrix.python-version }}
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
-        pip install pylint openai playsound        
+        python -m pip install --upgrade pip       
     - name: Analysing the code with pylint
       run: |
         find . -name \*.py -exec pylint {} \+
