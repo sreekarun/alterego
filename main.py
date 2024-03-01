@@ -1,3 +1,7 @@
+'''
+main.py
+'''
+
 from openai import OpenAI
 from playsound import playsound
 
